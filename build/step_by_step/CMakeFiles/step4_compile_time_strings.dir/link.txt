@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/step4_compile_time_strings.dir/link.d CMakeFiles/step4_compile_time_strings.dir/step4_compile_time_strings.cpp.o -o step4_compile_time_strings

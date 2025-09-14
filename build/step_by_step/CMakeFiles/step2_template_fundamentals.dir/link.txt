@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/step2_template_fundamentals.dir/link.d CMakeFiles/step2_template_fundamentals.dir/step2_template_fundamentals.cpp.o -o step2_template_fundamentals
