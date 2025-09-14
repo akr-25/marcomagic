@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/step5_advanced_magic_simple.dir/link.d CMakeFiles/step5_advanced_magic_simple.dir/step5_advanced_magic_simple.cpp.o -o step5_advanced_magic_simple

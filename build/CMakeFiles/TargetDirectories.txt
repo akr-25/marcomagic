@@ -1,0 +1,14 @@
+/home/runner/work/marcomagic/marcomagic/build/CMakeFiles/edit_cache.dir
+/home/runner/work/marcomagic/marcomagic/build/CMakeFiles/rebuild_cache.dir
+/home/runner/work/marcomagic/marcomagic/build/examples/CMakeFiles/basic_usage.dir
+/home/runner/work/marcomagic/marcomagic/build/examples/CMakeFiles/advanced_usage.dir
+/home/runner/work/marcomagic/marcomagic/build/examples/CMakeFiles/edit_cache.dir
+/home/runner/work/marcomagic/marcomagic/build/examples/CMakeFiles/rebuild_cache.dir
+/home/runner/work/marcomagic/marcomagic/build/step_by_step/CMakeFiles/step1_basic_concepts.dir
+/home/runner/work/marcomagic/marcomagic/build/step_by_step/CMakeFiles/step2_template_fundamentals.dir
+/home/runner/work/marcomagic/marcomagic/build/step_by_step/CMakeFiles/step3_sfinae_techniques.dir
+/home/runner/work/marcomagic/marcomagic/build/step_by_step/CMakeFiles/step4_compile_time_strings.dir
+/home/runner/work/marcomagic/marcomagic/build/step_by_step/CMakeFiles/step5_advanced_magic_simple.dir
+/home/runner/work/marcomagic/marcomagic/build/step_by_step/CMakeFiles/final_implementation.dir
+/home/runner/work/marcomagic/marcomagic/build/step_by_step/CMakeFiles/edit_cache.dir
+/home/runner/work/marcomagic/marcomagic/build/step_by_step/CMakeFiles/rebuild_cache.dir
