@@ -1,0 +1,17 @@
+add_executable(step1_basic_concepts step1_basic_concepts.cpp)
+target_include_directories(step1_basic_concepts PRIVATE ${CMAKE_SOURCE_DIR}/include)
+
+add_executable(step2_template_fundamentals step2_template_fundamentals.cpp)
+target_include_directories(step2_template_fundamentals PRIVATE ${CMAKE_SOURCE_DIR}/include)
+
+add_executable(step3_sfinae_techniques step3_sfinae_techniques.cpp)
+target_include_directories(step3_sfinae_techniques PRIVATE ${CMAKE_SOURCE_DIR}/include)
+
+add_executable(step4_compile_time_strings step4_compile_time_strings.cpp)  
+target_include_directories(step4_compile_time_strings PRIVATE ${CMAKE_SOURCE_DIR}/include)
+
+add_executable(step5_advanced_magic_simple step5_advanced_magic_simple.cpp)
+target_include_directories(step5_advanced_magic_simple PRIVATE ${CMAKE_SOURCE_DIR}/include)
+
+add_executable(final_implementation final_implementation.cpp)
+target_include_directories(final_implementation PRIVATE ${CMAKE_SOURCE_DIR}/include)
